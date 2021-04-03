@@ -1,0 +1,33 @@
+{
+    "heading": 
+    {
+	"agencia": "B3",
+	"anunciante": "B4",
+	"campanha": "B5",
+	"inicio": "B6",
+	"termino": "B7",
+	"contador_de_terceiro": "B8",
+	"post_tag": "B9",
+	"diaria": "B10",
+	"dcm_ou_afa": "B11",
+	"cliente": "B12",
+    },
+    "lines": 
+    {
+	"linha_inicial": 15,
+	"acao": "A",
+	"veiculo": "C",
+	"inicio": "J",
+	"termino": "K",
+	"tipo_de_compra": "M",
+	"quantidade_impressoes_cliques": "P",
+	"valor_unitario_cross": "Q", 
+	"link_parametrizado": "S",
+	"tipo_de_peca": "T",
+	"placement_name": "Y",
+	"ad_name": "Z",
+	"creative_name": "AA", 
+	"timestamp": "AF"
+    }
+}
+
